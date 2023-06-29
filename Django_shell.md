@@ -1,5 +1,6 @@
 **Что вы должны сделать в консоли Django?**
 
+
 ```python
 from news.models import *
 ```
